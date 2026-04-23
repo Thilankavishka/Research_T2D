@@ -10,3 +10,8 @@
 <h1>Single Cell RNA</h1>
 <img src="/Dataset_Statistic_Figures/scRNA (1).png">
 <img src="/Dataset_Statistic_Figures/scRNA (2).png">
+
+
+
+<h1>Single Cell RNA Preprocessing</h1>
+<img src="/Single_Cell/scRNA_preprocessing_summary.png">
