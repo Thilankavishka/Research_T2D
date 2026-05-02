@@ -17,3 +17,4 @@
 
 <h1>Single Cell RNA Preprocessing</h1>
 <img src="/Single_Cell/Figures/scRNA_preprocessing_summary.png">
+<img src="/Single_Cell/Figures/qc_histogram.png">
